@@ -1,0 +1,12 @@
+**/node_modules/
+**/.angular/
+**/dist/
+**/target/
+**/.idea/
+**/.vscode/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.log
